@@ -1,0 +1,16 @@
+{
+ "vars": [
+  {
+   "name": "DB_HOST",
+   "value": "localhost"
+  },
+  {
+   "name": "USER",
+   "value": "mbm"
+  },
+  {
+   "name": "PWD",
+   "value": "username"
+  }
+ ]
+}
